@@ -1,0 +1,11 @@
+PGHOST: 'localhost'
+PGPORT: '5439'
+PGDATABASE: 'sauber_test'
+PGUSER: 'sauber_user'
+PGPASSWORD: 'clean_air_2022'
+
+# PGHOST: 'localhost'
+# PGPORT: '5430'
+# PGDATABASE: 'sauber'
+# PGUSER: 'postgres'
+# PGPASSWORD: 'postgres'
