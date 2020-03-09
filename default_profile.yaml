@@ -1,0 +1,11 @@
+#PGHOST: 'localhost'
+#PGPORT: '5430'
+#PGDATABASE: 'here'
+#PGUSER: 'postgres'
+#PGPASSWORD: 'postgres'
+
+PGHOST: '192.168.10.184'
+PGPORT: '5430'
+PGDATABASE: 'here'
+PGUSER: 'postgres'
+PGPASSWORD: 'postgres'
